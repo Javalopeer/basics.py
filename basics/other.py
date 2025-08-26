@@ -1,4 +1,4 @@
-import main
+from basics import main
 
 user = 'Gerardo'
 print(f'Hola que tal {user}')
