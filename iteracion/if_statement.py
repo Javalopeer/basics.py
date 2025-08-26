@@ -13,7 +13,7 @@ if age >= 18:
 else:
     print('No eres mayor de edad!')
 
-grade = 74
+grade = 74.5
 if grade == 75:
     print('Has aprobado')
 elif grade >= 90:
